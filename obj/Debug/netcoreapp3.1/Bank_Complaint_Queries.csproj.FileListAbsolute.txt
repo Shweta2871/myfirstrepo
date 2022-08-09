@@ -1,0 +1,28 @@
+C:\Users\GD Bhatia\Desktop\LTI_Mini_Projects\Bank_Complaint_Queries\bin\Debug\netcoreapp3.1\Bank_Complaint_Queries.exe
+C:\Users\GD Bhatia\Desktop\LTI_Mini_Projects\Bank_Complaint_Queries\bin\Debug\netcoreapp3.1\Bank_Complaint_Queries.deps.json
+C:\Users\GD Bhatia\Desktop\LTI_Mini_Projects\Bank_Complaint_Queries\bin\Debug\netcoreapp3.1\Bank_Complaint_Queries.runtimeconfig.json
+C:\Users\GD Bhatia\Desktop\LTI_Mini_Projects\Bank_Complaint_Queries\bin\Debug\netcoreapp3.1\Bank_Complaint_Queries.runtimeconfig.dev.json
+C:\Users\GD Bhatia\Desktop\LTI_Mini_Projects\Bank_Complaint_Queries\bin\Debug\netcoreapp3.1\Bank_Complaint_Queries.dll
+C:\Users\GD Bhatia\Desktop\LTI_Mini_Projects\Bank_Complaint_Queries\bin\Debug\netcoreapp3.1\Bank_Complaint_Queries.pdb
+C:\Users\GD Bhatia\Desktop\LTI_Mini_Projects\Bank_Complaint_Queries\obj\Debug\netcoreapp3.1\Bank_Complaint_Queries.csproj.AssemblyReference.cache
+C:\Users\GD Bhatia\Desktop\LTI_Mini_Projects\Bank_Complaint_Queries\obj\Debug\netcoreapp3.1\Bank_Complaint_Queries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GD Bhatia\Desktop\LTI_Mini_Projects\Bank_Complaint_Queries\obj\Debug\netcoreapp3.1\Bank_Complaint_Queries.AssemblyInfoInputs.cache
+C:\Users\GD Bhatia\Desktop\LTI_Mini_Projects\Bank_Complaint_Queries\obj\Debug\netcoreapp3.1\Bank_Complaint_Queries.AssemblyInfo.cs
+C:\Users\GD Bhatia\Desktop\LTI_Mini_Projects\Bank_Complaint_Queries\obj\Debug\netcoreapp3.1\Bank_Complaint_Queries.csproj.CoreCompileInputs.cache
+C:\Users\GD Bhatia\Desktop\LTI_Mini_Projects\Bank_Complaint_Queries\obj\Debug\netcoreapp3.1\Bank_Complaint_Queries.dll
+C:\Users\GD Bhatia\Desktop\LTI_Mini_Projects\Bank_Complaint_Queries\obj\Debug\netcoreapp3.1\Bank_Complaint_Queries.pdb
+C:\Users\GD Bhatia\Desktop\LTI_Mini_Projects\Bank_Complaint_Queries\obj\Debug\netcoreapp3.1\Bank_Complaint_Queries.genruntimeconfig.cache
+C:\Users\SHWETA\Desktop\Complaints_Project-main\bin\Debug\netcoreapp3.1\Bank_Complaint_Queries.exe
+C:\Users\SHWETA\Desktop\Complaints_Project-main\bin\Debug\netcoreapp3.1\Bank_Complaint_Queries.deps.json
+C:\Users\SHWETA\Desktop\Complaints_Project-main\bin\Debug\netcoreapp3.1\Bank_Complaint_Queries.runtimeconfig.json
+C:\Users\SHWETA\Desktop\Complaints_Project-main\bin\Debug\netcoreapp3.1\Bank_Complaint_Queries.runtimeconfig.dev.json
+C:\Users\SHWETA\Desktop\Complaints_Project-main\bin\Debug\netcoreapp3.1\Bank_Complaint_Queries.dll
+C:\Users\SHWETA\Desktop\Complaints_Project-main\bin\Debug\netcoreapp3.1\Bank_Complaint_Queries.pdb
+C:\Users\SHWETA\Desktop\Complaints_Project-main\obj\Debug\netcoreapp3.1\Bank_Complaint_Queries.csproj.AssemblyReference.cache
+C:\Users\SHWETA\Desktop\Complaints_Project-main\obj\Debug\netcoreapp3.1\Bank_Complaint_Queries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SHWETA\Desktop\Complaints_Project-main\obj\Debug\netcoreapp3.1\Bank_Complaint_Queries.AssemblyInfoInputs.cache
+C:\Users\SHWETA\Desktop\Complaints_Project-main\obj\Debug\netcoreapp3.1\Bank_Complaint_Queries.AssemblyInfo.cs
+C:\Users\SHWETA\Desktop\Complaints_Project-main\obj\Debug\netcoreapp3.1\Bank_Complaint_Queries.csproj.CoreCompileInputs.cache
+C:\Users\SHWETA\Desktop\Complaints_Project-main\obj\Debug\netcoreapp3.1\Bank_Complaint_Queries.dll
+C:\Users\SHWETA\Desktop\Complaints_Project-main\obj\Debug\netcoreapp3.1\Bank_Complaint_Queries.pdb
+C:\Users\SHWETA\Desktop\Complaints_Project-main\obj\Debug\netcoreapp3.1\Bank_Complaint_Queries.genruntimeconfig.cache
